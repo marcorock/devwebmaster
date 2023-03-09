@@ -17,11 +17,11 @@
 
   <img alt="License" src="https://img.shields.io/github/license/marcorock/devwebmaster?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{marcorock/devwebmaster?color=56BEB8" /> -->
+  <img alt="Github issues" src="https://img.shields.io/github/issues/marcorock/devwebmaster?color=56BEB8" />
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{marcorock/devwebmaster?color=56BEB8" /> -->
+  <img alt="Github forks" src="https://img.shields.io/github/forks/marcorock/devwebmaster?color=56BEB8" />
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{marcorock/devwebmaster?color=56BEB8" /> -->
+  <img alt="Github stars" src="https://img.shields.io/github/stars/marcorock/devwebmaster?color=56BEB8" />
 </p>
 
 <!-- Status -->
@@ -33,28 +33,28 @@
 <hr> -->
 
 <p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{marcorock" target="_blank">Author</a>
+  <a href="#dart-about">Sobre</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-features">Caracteristicas</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requerimentos</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Iniciando</a> &#xa0; | &#xa0;
+  <a href="#memo-license">Licensa</a> &#xa0; | &#xa0;
+  <a href="https://github.com/marcorock" target="_blank">Author</a>
 </p>
 
 <br>
 
-## :dart: About ##
+## :dart: Sobre ##
 
 Describe your project
 
-## :sparkles: Features ##
+## :sparkles: Caracteristicas ##
 
 :heavy_check_mark: Feature 1;\
 :heavy_check_mark: Feature 2;\
 :heavy_check_mark: Feature 3;
 
-## :rocket: Technologies ##
+## :rocket: Tecnologias ##
 
 The following tools were used in this project:
 
@@ -64,15 +64,15 @@ The following tools were used in this project:
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## :white_check_mark: Requirements ##
+## :white_check_mark: Requerimentos ##
 
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
-## :checkered_flag: Starting ##
+## :checkered_flag: Iniciando ##
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{marcorock/devwebmaster
+$ git clone https://github.com/marcorock/devwebmaster
 
 # Access
 $ cd devwebmaster
@@ -86,12 +86,12 @@ $ yarn start
 # The server will initialize in the <http://localhost:3000>
 ```
 
-## :memo: License ##
+## :memo: Licensa ##
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{marcorock" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/marcorock" target="_blank">Marco Silva Rock</a>
 
 &#xa0;
 
