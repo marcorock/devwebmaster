@@ -1,33 +1,33 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Webmasterstudy" />
+  <img src="./.github/app.gif" alt="devwebmaster" />
 
   &#xa0;
 
-  <!-- <a href="https://webmasterstudy.netlify.app">Demo</a> -->
+  <!-- <a href="https://devwebmaster.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Webmasterstudy</h1>
+<h1 align="center">devwebmaster</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/marcorock/webmasterstudy?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/marcorock/devwebmaster?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/marcorock/webmasterstudy?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/marcorock/devwebmaster?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/marcorock/webmasterstudy?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/marcorock/devwebmaster?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/marcorock/webmasterstudy?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/marcorock/devwebmaster?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{marcorock/webmasterstudy?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{marcorock/devwebmaster?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{marcorock/webmasterstudy?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{marcorock/devwebmaster?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{marcorock/webmasterstudy?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{marcorock/devwebmaster?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
 
 <!-- <h4 align="center"> 
-	🚧  Webmasterstudy 🚀 Under construction...  🚧
+	🚧  devwebmaster 🚀 Under construction...  🚧
 </h4> 
 
 <hr> -->
@@ -72,10 +72,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{marcorock/webmasterstudy
+$ git clone https://github.com/{marcorock/devwebmaster
 
 # Access
-$ cd webmasterstudy
+$ cd devwebmaster
 
 # Install dependencies
 $ yarn
